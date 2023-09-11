@@ -1,6 +1,8 @@
 # Priority Pal
-
-![App Preview](todo-app-preview.png)
+## Screenshots:
+![App Preview](screenshot1.png)
+![App Preview](screenshot2.png)
+![App Preview](screenshot3.png)
 
 This is a simple TodoList web application built using HTML, CSS, JavaScript, and React.js. It allows you to manage your tasks efficiently by providing the following key features:
 
