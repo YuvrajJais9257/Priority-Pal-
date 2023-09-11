@@ -68,9 +68,5 @@ If you want to contribute to the development of this project, here are some step
 
 Please make sure to follow the Contributing Guidelines when submitting contributions.
 
-Happy task management with our TodoList app! If you have any questions or suggestions, feel free to open an issue or contact us at quicksilver92571331@gmail.com.
+Happy task management with our TodoList app! If you have any questions or suggestions, feel free to open an issue or contact us at [here](quicksilver92571331@gmail.com)!
 
-
-Remember to replace the placeholders with actual links, paths, and information relevant to your project. You may also want to include screenshots or GIFs to showcase your app in the README.
-
-   
