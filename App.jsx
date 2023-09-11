@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import InputArea from "./InputArea";
-import ToDoItem from "./ToDoItem";
+import InputArea from "InputArea.jsx";
+import ToDoItem from "ToDoItem.jsx";
 
 function App() {
   const [name, setName] = useState("");
